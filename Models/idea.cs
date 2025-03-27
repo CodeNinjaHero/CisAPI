@@ -3,23 +3,23 @@ using System.Collections.Generic;
 
 namespace ApiRest.Models;
 
-public partial class idea
+public partial class Idea
 {
-    public Guid id { get; set; }
+    public Guid Id { get; set; }
 
-    public Guid user_id { get; set; }
+    public Guid UserId { get; set; }
 
-    public string title { get; set; } = null!;
+    public string Title { get; set; } = null!;
 
-    public string description { get; set; } = null!;
+    public string Description { get; set; } = null!;
 
-    public DateTime? created_at { get; set; }
+    public DateTime? CreatedAt { get; set; }
 
-    public virtual ICollection<comment> comments { get; set; } = new List<comment>();
+    public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();
 
-    public virtual user user { get; set; } = null!;
+    public virtual User User { get; set; } = null!;
 
-    public virtual ICollection<vote> votes { get; set; } = new List<vote>();
+    public virtual ICollection<Vote> Votes { get; set; } = new List<Vote>();
 
-    public virtual ICollection<category> categories { get; set; } = new List<category>();
+    public virtual ICollection<Category> Categories { get; set; } = new List<Category>();
 }

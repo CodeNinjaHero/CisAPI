@@ -3,19 +3,19 @@ using System.Collections.Generic;
 
 namespace ApiRest.Models;
 
-public partial class user
+public partial class User
 {
-    public Guid id { get; set; }
+    public Guid Id { get; set; }
 
-    public string? name { get; set; }
+    public string? Name { get; set; }
 
-    public string? login { get; set; }
+    public string? Login { get; set; }
 
-    public string? password { get; set; }
+    public string? Password { get; set; }
 
-    public virtual ICollection<comment> comments { get; set; } = new List<comment>();
+    public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();
 
-    public virtual ICollection<idea> ideas { get; set; } = new List<idea>();
+    public virtual ICollection<Idea> Ideas { get; set; } = new List<Idea>();
 
-    public virtual ICollection<vote> votes { get; set; } = new List<vote>();
+    public virtual ICollection<Vote> Votes { get; set; } = new List<Vote>();
 }
