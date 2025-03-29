@@ -1,5 +1,6 @@
-using ApiRest.Models;
 using Microsoft.EntityFrameworkCore;
+using ApiRest.Domain.Models;
+using ApiRest.DataAccess.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ApiRest.Models;
+using ApiRest.Domain.Models;
+using ApiRest.DataAccess.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
