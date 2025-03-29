@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiRest.DataAccess\ApiRest.DataAccess.csproj" />
+    <ProjectReference Include="..\ApiRest.DataTransfer\ApiRest.DataTransfer.csproj" />
+    <ProjectReference Include="..\ApiRest.Domain\ApiRest.Domain.csproj" />
+    <ProjectReference Include="..\ApiRest\ApiRest.csproj" />
+  </ItemGroup>
+
+</Project>
