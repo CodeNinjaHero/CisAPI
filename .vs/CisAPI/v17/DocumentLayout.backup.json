@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi.csproj|solutionrelative:cisapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}|..\\CisApi.Domain\\CisApi.Domain.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi.domain\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}|..\\CisApi.Domain\\CisApi.Domain.csproj|solutionrelative:cisapi.domain\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 346,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CisApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CisApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:38:21.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.Domain\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CisApi.Domain\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.Domain\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "CisApi.Domain\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:38:05.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

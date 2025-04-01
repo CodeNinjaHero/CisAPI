@@ -1,0 +1,11 @@
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\bin\Debug\net9.0\CisApi.DataAccess.deps.json
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\bin\Debug\net9.0\CisApi.DataAccess.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\bin\Debug\net9.0\CisApi.DataAccess.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\obj\Debug\net9.0\CisApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\obj\Debug\net9.0\CisApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\obj\Debug\net9.0\CisApi.DataAccess.AssemblyInfo.cs
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\obj\Debug\net9.0\CisApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\obj\Debug\net9.0\CisApi.DataAccess.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\obj\Debug\net9.0\refint\CisApi.DataAccess.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\obj\Debug\net9.0\CisApi.DataAccess.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataAccess\obj\Debug\net9.0\ref\CisApi.DataAccess.dll

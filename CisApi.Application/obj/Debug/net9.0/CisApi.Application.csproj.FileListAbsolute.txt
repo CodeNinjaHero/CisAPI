@@ -1,0 +1,11 @@
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\bin\Debug\net9.0\CisApi.Application.deps.json
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\bin\Debug\net9.0\CisApi.Application.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\bin\Debug\net9.0\CisApi.Application.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\obj\Debug\net9.0\CisApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\obj\Debug\net9.0\CisApi.Application.AssemblyInfoInputs.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\obj\Debug\net9.0\CisApi.Application.AssemblyInfo.cs
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\obj\Debug\net9.0\CisApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\obj\Debug\net9.0\CisApi.Application.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\obj\Debug\net9.0\refint\CisApi.Application.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\obj\Debug\net9.0\CisApi.Application.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Application\obj\Debug\net9.0\ref\CisApi.Application.dll

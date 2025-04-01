@@ -1,0 +1,11 @@
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\bin\Debug\net9.0\CisApi.DataTransfer.deps.json
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\bin\Debug\net9.0\CisApi.DataTransfer.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\bin\Debug\net9.0\CisApi.DataTransfer.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\obj\Debug\net9.0\CisApi.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\obj\Debug\net9.0\CisApi.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\obj\Debug\net9.0\CisApi.DataTransfer.AssemblyInfo.cs
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\obj\Debug\net9.0\CisApi.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\obj\Debug\net9.0\CisApi.DataTransfer.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\obj\Debug\net9.0\refint\CisApi.DataTransfer.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\obj\Debug\net9.0\CisApi.DataTransfer.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.DataTransfer\obj\Debug\net9.0\ref\CisApi.DataTransfer.dll

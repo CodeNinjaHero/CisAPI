@@ -1,0 +1,17 @@
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\bin\Debug\net9.0\CisApi.MySQL.Dao.deps.json
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\bin\Debug\net9.0\CisApi.MySQL.Dao.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\bin\Debug\net9.0\CisApi.MySQL.Dao.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\bin\Debug\net9.0\CisApi.DataAccess.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\bin\Debug\net9.0\CisApi.Domain.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\bin\Debug\net9.0\CisApi.DataAccess.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\bin\Debug\net9.0\CisApi.Domain.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\CisApi.MySQL.Dao.csproj.AssemblyReference.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\CisApi.MySQL.Dao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\CisApi.MySQL.Dao.AssemblyInfoInputs.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\CisApi.MySQL.Dao.AssemblyInfo.cs
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\CisApi.MySQL.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\CisApi.M.92DBCBDE.Up2Date
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\CisApi.MySQL.Dao.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\refint\CisApi.MySQL.Dao.dll
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\CisApi.MySQL.Dao.pdb
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.MySQL.Dao\obj\Debug\net9.0\ref\CisApi.MySQL.Dao.dll

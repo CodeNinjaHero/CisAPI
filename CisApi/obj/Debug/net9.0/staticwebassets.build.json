@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sdM2k45pdW/kqCa6RTqLr0b0yEnPXXmx+JMwZuSNMNA=",
+  "Source": "CisApi",
+  "BasePath": "_content/CisApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
