@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CisApi", "CisApi\CisApi.csproj", "{3D60CF60-7927-484C-AAC5-C642BEFD4052}"
 EndProject
@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CisApi.Application", "CisAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CisApi.Domain", "CisApi.Domain\CisApi.Domain.csproj", "{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CisApi.DataAccess", "CisApi.DataAccess\CisApi.DataAccess.csproj", "{ADF8FA69-C269-4005-A2FD-1D94EF49D867}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CisApi.MySQL.Dao", "CisApi.MySQL.Dao\CisApi.MySQL.Dao.csproj", "{02A940AF-867B-4A6A-B542-614931FD8423}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CisApi.DataTransfer", "CisApi.DataTransfer\CisApi.DataTransfer.csproj", "{1F7BF163-BC56-449F-97D2-1521889534B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CisApi.DataAccess", "CisApi.DataAccess\CisApi.DataAccess.csproj", "{57CCD3DF-14BA-4642-93EE-456FC072BC41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +33,6 @@ Global
 		{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ADF8FA69-C269-4005-A2FD-1D94EF49D867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADF8FA69-C269-4005-A2FD-1D94EF49D867}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADF8FA69-C269-4005-A2FD-1D94EF49D867}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADF8FA69-C269-4005-A2FD-1D94EF49D867}.Release|Any CPU.Build.0 = Release|Any CPU
 		{02A940AF-867B-4A6A-B542-614931FD8423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{02A940AF-867B-4A6A-B542-614931FD8423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02A940AF-867B-4A6A-B542-614931FD8423}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{1F7BF163-BC56-449F-97D2-1521889534B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F7BF163-BC56-449F-97D2-1521889534B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F7BF163-BC56-449F-97D2-1521889534B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CCD3DF-14BA-4642-93EE-456FC072BC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CCD3DF-14BA-4642-93EE-456FC072BC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CCD3DF-14BA-4642-93EE-456FC072BC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CCD3DF-14BA-4642-93EE-456FC072BC41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

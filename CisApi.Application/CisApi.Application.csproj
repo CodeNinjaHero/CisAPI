@@ -11,4 +11,9 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CisApi.Domain\CisApi.Domain.csproj" />
+    <ProjectReference Include="..\CisApi.MySQL.Dao\CisApi.MySQL.Dao.csproj" />
+  </ItemGroup>
+
 </Project>

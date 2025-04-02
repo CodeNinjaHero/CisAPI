@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CisApi.DataAccess\CisApi.DataAccess.csproj" />
     <ProjectReference Include="..\CisApi.Domain\CisApi.Domain.csproj" />
   </ItemGroup>
 

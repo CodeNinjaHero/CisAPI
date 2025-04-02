@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi.csproj|solutionrelative:cisapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57CCD3DF-14BA-4642-93EE-456FC072BC41}|CisApi.DataAccess\\CisApi.DataAccess.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi.dataaccess\\context\\cisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CCD3DF-14BA-4642-93EE-456FC072BC41}|CisApi.DataAccess\\CisApi.DataAccess.csproj|solutionrelative:cisapi.dataaccess\\context\\cisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}|..\\CisApi.Domain\\CisApi.Domain.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi.domain\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}|..\\CisApi.Domain\\CisApi.Domain.csproj|solutionrelative:cisapi.domain\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.DataAccess\\Migrations\\20250402021937_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CisApi.DataAccess\\Migrations\\20250402021937_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi\\CisApi.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi\\CisApi.csproj|solutionrelative:cisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CCD3DF-14BA-4642-93EE-456FC072BC41}|CisApi.DataAccess\\CisApi.DataAccess.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CCD3DF-14BA-4642-93EE-456FC072BC41}|CisApi.DataAccess\\CisApi.DataAccess.csproj|solutionrelative:cisapi.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi\\CisApi.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi\\CisApi.csproj|solutionrelative:cisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi\\CisApi.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D60CF60-7927-484C-AAC5-C642BEFD4052}|CisApi\\CisApi.csproj|solutionrelative:cisapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}|CisApi.Domain\\CisApi.Domain.csproj|c:\\users\\edwin\\onedrive\\escritorio\\programacion\\c#\\api\\codefirstapi\\cisapi\\cisapi.domain\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A9450A-FC59-451C-B227-1C6CC3E9D6D1}|CisApi.Domain\\CisApi.Domain.csproj|solutionrelative:cisapi.domain\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,6 +67,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CisDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.DataAccess\\Context\\CisDbContext.cs",
+              "RelativeDocumentMoniker": "CisApi.DataAccess\\Context\\CisDbContext.cs",
+              "ToolTip": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.DataAccess\\Context\\CisDbContext.cs",
+              "RelativeToolTip": "CisApi.DataAccess\\Context\\CisDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:44:22.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250402021937_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.DataAccess\\Migrations\\20250402021937_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CisApi.DataAccess\\Migrations\\20250402021937_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.DataAccess\\Migrations\\20250402021937_InitialCreate.cs",
+              "RelativeToolTip": "CisApi.DataAccess\\Migrations\\20250402021937_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:19:37.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi\\Program.cs",
+              "RelativeDocumentMoniker": "CisApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi\\Program.cs",
+              "RelativeToolTip": "CisApi\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:32:26.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "CisApi.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.DataAccess\\Class1.cs",
+              "RelativeToolTip": "CisApi.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:43:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CisApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi\\appsettings.json",
+              "RelativeToolTip": "CisApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T02:07:40.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "CisApi\\Controllers\\WeatherForecastController.cs",
@@ -59,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Edwin\\OneDrive\\Escritorio\\programacion\\C#\\API\\CodeFirstApi\\CisAPI\\CisApi.Domain\\Models\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "CisApi.Domain\\Models\\WeatherForecast.cs",

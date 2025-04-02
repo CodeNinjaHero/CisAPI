@@ -1,14 +1,12 @@
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\bin\Debug\net9.0\CisApi.Domain.deps.json
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\bin\Debug\net9.0\CisApi.Domain.dll
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\bin\Debug\net9.0\CisApi.Domain.pdb
-C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\bin\Debug\net9.0\CisApi.DataAccess.dll
-C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\bin\Debug\net9.0\CisApi.DataAccess.pdb
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.Domain.csproj.AssemblyReference.cache
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.Domain.AssemblyInfoInputs.cache
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.Domain.AssemblyInfo.cs
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.D.2B400663.Up2Date
+C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.Domain.sourcelink.json
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.Domain.dll
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\refint\CisApi.Domain.dll
 C:\Users\Edwin\OneDrive\Escritorio\programacion\C#\API\CodeFirstApi\CisAPI\CisApi.Domain\obj\Debug\net9.0\CisApi.Domain.pdb
